@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "PTIT LMS — Unlock Seek",
+  "version": "1.3.0",
+  "description": "Chặn giới hạn tua trên LMS PTIT.",
+  "permissions": ["storage", "alarms", "scripting"],
+  "host_permissions": [
+    "https://raw.githubusercontent.com/*",
+    "https://lms.ptit.edu.vn/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icons/icon.png"
+    }
+  },
+  "background": { "service_worker": "main.js" },
+  "content_scripts": [
+    {
+      "matches": ["https://lms.ptit.edu.vn/*"],
+      "js": ["main.js"],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ],
+  "icons": {
+    "48": "icons/icon.png"
+  }
+}
