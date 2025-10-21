@@ -30,4 +30,6 @@ Công cụ này được tạo ra nhằm hỗ trợ sinh viên trong quá trình
 
 
 🕒 Phiên bản hiện tại: 1.0.0  
+![Visitors](https://komarev.com/ghpvc/?username=ThaiNT966&repo=PTIT-LMS-Unlock-Seek&color=blue&style=flat-square)
+
 
