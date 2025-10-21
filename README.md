@@ -23,4 +23,11 @@ Công cụ này được tạo ra nhằm hỗ trợ sinh viên trong quá trình
 - Extension chỉ hoạt động trên **hệ thống LMS của PTIT**.  
 - Mọi hành vi chỉnh sửa hoặc sử dụng sai mục đích đều do người dùng tự chịu trách nhiệm.  
 
+## ⚠️ Lưu ý 
+- Extension **chỉ hoạt động với video được nhúng từ YouTube** trên hệ thống LMS PTIT.  
+- Với các video phát từ **máy chủ nội bộ** hoặc **nguồn khác không phải YouTube**, tính năng tua có thể **chưa được cập nhật**.  
+---
+
+
+🕒 Phiên bản hiện tại: 1.0.0  
 
