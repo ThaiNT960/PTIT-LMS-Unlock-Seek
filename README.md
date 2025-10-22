@@ -2,7 +2,7 @@
 
 🧩 **Tiện ích mở rộng hỗ trợ học tập trên hệ thống LMS PTIT**
 
-## 🧠 Giới thiệu
+## Giới thiệu
 PTIT-LMS-Unlock-Seek là một extension giúp **mở khóa tính năng tua video** trên trang học trực tuyến của PTIT (LMS).  
 Công cụ này được tạo ra nhằm hỗ trợ sinh viên trong quá trình học, giúp việc xem lại bài giảng thuận tiện và linh hoạt hơn.
 
@@ -25,7 +25,10 @@ Công cụ này được tạo ra nhằm hỗ trợ sinh viên trong quá trình
 
 ## ⚠️ Lưu ý 
 - Extension **chỉ hoạt động với video được nhúng từ YouTube** trên hệ thống LMS PTIT.  
-- Với các video phát từ **máy chủ nội bộ** hoặc **nguồn khác không phải YouTube**, tính năng tua có thể **chưa được cập nhật**.  
+- Với các video phát từ **máy chủ nội bộ** hoặc **nguồn khác không phải YouTube**, tính năng tua có thể **không hoạt động**.
+- Hiện hoạt động tốt với các môn **TTHCM** và **LSD**, còn các môn như **Triết học**,**CNKHXH**,**KTCT** dùng **video nội bộ** nên **chưa hỗ trợ tua**(không có tài khoản để kiểm thử nên không cập nhật được).
+
+
 ---
 
 
