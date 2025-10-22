@@ -26,7 +26,7 @@ Công cụ này được tạo ra nhằm hỗ trợ sinh viên trong quá trình
 ## ⚠️ Lưu ý 
 - Extension **chỉ hoạt động với video được nhúng từ YouTube** trên hệ thống LMS PTIT.  
 - Với các video phát từ **máy chủ nội bộ** hoặc **nguồn khác không phải YouTube**, tính năng tua có thể **không hoạt động**.
-- Hiện hoạt động tốt với các môn **TTHCM** và **LSD**, còn các môn như **Triết học**,**CNKHXH**,**KTCT** dùng **video nội bộ** nên **chưa hỗ trợ tua**(không có tài khoản để kiểm thử nên không cập nhật được).
+- Hiện hoạt động tốt với các môn **TTHCM** và **LSD**, còn hình như các môn như **Triết học**,**CNKHXH**,**KTCT** dùng **video nội bộ** nên **chưa hỗ trợ tua**(không có tài khoản để kiểm thử nên không cập nhật được).
 
 
 ---
